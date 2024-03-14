@@ -1,4 +1,4 @@
-/
+
 def encuesta():
     respuesta = input("¿Tienes alguna discapacidad? (Responde 'Si' o 'No'): ")
     if respuesta.lower() == 'si':
